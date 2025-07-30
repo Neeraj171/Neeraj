@@ -1,0 +1,20 @@
+{
+  "provider": "Sony LIV",
+  "last_updated": "2025-07-30",
+  "channels": [
+    {
+      "id": "sony_sports_1",
+      "name": "Sony Sports 1 HD",
+      "logo": "https://www.sonyliv.com/logo/sony_sports_1.png",
+      "category": "Sports",
+      "url": "https://official-sony-liv-link/sony_sports_1.m3u8"
+    },
+    {
+      "id": "sony_sports_2",
+      "name": "Sony Sports 2 HD",
+      "logo": "https://www.sonyliv.com/logo/sony_sports_2.png",
+      "category": "Sports",
+      "url": "https://official-sony-liv-link/sony_sports_2.m3u8"
+    }
+  ]
+}
