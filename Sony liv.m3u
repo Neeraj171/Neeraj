@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="sony_sports_1" tvg-name="Sony Sports 1 HD" tvg-logo="https://www.sonyliv.com/logo/sony_sports_1.png" group-title="Sports",Sony Sports 1 HD
+https://official-sony-liv-link/sony_sports_1.m3u8
+
+#EXTINF:-1 tvg-id="sony_sports_2" tvg-name="Sony Sports 2 HD" tvg-logo="https://www.sonyliv.com/logo/sony_sports_2.png" group-title="Sports",Sony Sports 2 HD
+https://official-sony-liv-link/sony_sports_2.m3u8
